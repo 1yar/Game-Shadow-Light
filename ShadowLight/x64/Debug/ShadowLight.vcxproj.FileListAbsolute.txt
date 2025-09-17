@@ -1,0 +1,3 @@
+C:\Users\yaros\source\repos\ShadowLight\x64\Debug\raylib.dll
+C:\Users\yaros\source\repos\ShadowLight\x64\Debug\glfw3.dll
+C:\Users\yaros\source\repos\ShadowLight\ShadowLight\x64\Debug\ShadowLi.9749FC00.Up2Date

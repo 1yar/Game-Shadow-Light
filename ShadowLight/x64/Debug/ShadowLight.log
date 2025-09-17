@@ -1,0 +1,7 @@
+﻿  ShadowLight.cpp
+C:\Users\yaros\source\repos\ShadowLight\ShadowLight.cpp(117,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\yaros\source\repos\ShadowLight\ShadowLight.cpp(118,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\yaros\source\repos\ShadowLight\ShadowLight.cpp(333,22): warning C4566: символ, представленный универсальным именем символа "\U0001F389", невозможно представить в текущей кодовой странице (1251)
+  ShadowLight.vcxproj -> C:\Users\yaros\source\repos\ShadowLight\x64\Debug\ShadowLight.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
